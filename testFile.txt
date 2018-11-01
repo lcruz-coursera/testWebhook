@@ -1,4 +1,37 @@
 This is a test of lambda expression.
+//TODO(srolel): testing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -20,63 +53,4 @@ def todo() = ???
 **/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is a test
-sdfasdf
-sadf
-asdf
-asd
-fasd
-fasd
-//TODO   (lcruz): keep testing.
+TODO(lcruz): Test multiple files in one commit. 
