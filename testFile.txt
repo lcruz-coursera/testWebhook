@@ -6,7 +6,6 @@ This is a test of lambda expression.
 This is another test of lambda expressions.
 
 def testFunction(test:Int) = {
-//TODO(lcruz): implement 
 }
 
 
