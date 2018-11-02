@@ -1,5 +1,5 @@
 This is a test of lambda expression.
-//TODO(srolel): testing.
+//TODO(srolel): Update the todo text.
 
 
 
